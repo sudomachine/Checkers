@@ -1,4 +1,4 @@
-.exe
-.user
-.o
-.bak
+*.exe
+*.o
+*.bak
+*.user
